@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Cairo", ui-sans-serif, system-ui, sans-serif;
+  --color-primary: #1E3A8A; /* Royal Blue */
+  --color-primary-dark: #1E3A8A;
+  --color-secondary: #F3F4F6;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #f8fafc;
+  color: #0f172a;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
