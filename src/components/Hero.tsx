@@ -31,13 +31,13 @@ export default function Hero() {
                 الأستاذ أحمد حسن
               </h1>
               <p className="text-blue-100 text-sm sm:text-base leading-relaxed mb-8 max-w-xl">
-                عشرون عاماً من الخبرة في بناء عقول المبدعين وتسهيل لغة الأرقام. رؤيتنا هي تحويل التعقيد إلى إبداع ملموس تضمن لك التفوق في أصعب الظروف.
+                عشرون عاماً في بناء عقول المبدعين وتسهيل لغة الأرقام. رؤيتنا هي تحويل التعقيد إلى إبداع ملموس تضمن لك التفوق في أصعب الظروف.
               </p>
               
               <div className="flex items-center gap-6 sm:gap-8 flex-wrap">
                 <div className="flex flex-col">
                   <span className="text-3xl font-bold">+20</span>
-                  <span className="text-[10px] uppercase tracking-wider text-blue-300">سنة خبرة</span>
+                  <span className="text-[10px] uppercase tracking-wider text-blue-300">عاماً</span>
                 </div>
                 <div className="w-px h-10 bg-white/20 hidden sm:block"></div>
                 <div className="flex flex-col">

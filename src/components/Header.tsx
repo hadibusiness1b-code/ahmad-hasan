@@ -17,7 +17,6 @@ export default function Header() {
   const navLinks = [
     { name: 'الرئيسية', href: '#home' },
     { name: 'من أنا', href: '#about' },
-    { name: 'أماكن التدريس', href: '#locations' },
     { name: 'آراء الطلاب', href: '#testimonials' },
   ];
 

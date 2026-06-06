@@ -12,7 +12,6 @@ export default function Footer() {
         <div className="flex justify-center space-x-6 space-x-reverse mb-8">
           <a href="#home" className="hover:text-white transition-colors">الرئيسية</a>
           <a href="#about" className="hover:text-white transition-colors">من أنا</a>
-          <a href="#locations" className="hover:text-white transition-colors">أماكن التدريس</a>
           <a href="#contact" className="hover:text-white transition-colors">اتصل بنا</a>
         </div>
 
